@@ -1,0 +1,37 @@
+name: pileup
+channels:
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - bzip2=1.0.8
+  - c-ares=1.18.1
+  - ca-certificates=2021.10.26
+  - certifi=2021.10.8
+  - curl=7.80.0
+  - krb5=1.19.2
+  - ld_impl_linux-64=2.35.1
+  - libcurl=7.80.0
+  - libdeflate=1.0
+  - libedit=3.1.20210910
+  - libev=4.33
+  - libffi=3.3
+  - libgcc-ng=9.3.0
+  - libgomp=9.3.0
+  - libnghttp2=1.46.0
+  - libssh2=1.9.0
+  - libstdcxx-ng=9.3.0
+  - ncurses=6.3
+  - openssl=1.1.1m
+  - pip=21.2.2
+  - pysam=0.15.3
+  - python=3.7.11
+  - readline=8.1.2
+  - setuptools=58.0.4
+  - sqlite=3.37.2
+  - tk=8.6.11
+  - wheel=0.37.1
+  - xz=5.2.5
+  - zlib=1.2.11
