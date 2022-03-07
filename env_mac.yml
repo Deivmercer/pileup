@@ -1,4 +1,4 @@
-name: pileup_mac
+name: pileup
 channels:
   - bioconda
   - r
@@ -29,5 +29,4 @@ dependencies:
   - tk=8.6.11
   - wheel=0.37.1
   - xz=5.2.5
-  - zlib=1.2.11
-prefix: /Users/mattia/opt/anaconda3/envs/pileup_mac
+  - zlib=1.2.11+
